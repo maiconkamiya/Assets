@@ -1,0 +1,12 @@
+{
+    "name": "mtakeshi/assets",
+    "description": "Biblioteca de Ativos",
+    "minimum-stability": "dev",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Maicon Takeshi Kamiya",
+            "email": "maiconkamiya@hotmail.com"
+        }
+    ]
+}
